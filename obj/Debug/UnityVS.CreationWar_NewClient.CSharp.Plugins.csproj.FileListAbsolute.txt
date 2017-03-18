@@ -1,0 +1,16 @@
+E:\unityworkspace\CreationWar_NewClient\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.dll
+E:\unityworkspace\CreationWar_NewClient\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+E:\unityworkspace\CreationWar_NewClient\Temp\UnityVS_bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\unityworkspace\CreationWar_NewClient\Temp\UnityVS_bin\Debug\P31RestKit.dll
+E:\unityworkspace\CreationWar_NewClient\Temp\UnityVS_bin\Debug\Photon3Unity3D.dll
+E:\unityworkspace\CreationWar_NewClient\Temp\UnityVS_bin\Debug\UnityEditor.dll
+E:\unityworkspace\CreationWar_NewClient\Temp\UnityVS_bin\Debug\UnityEngine.dll
+E:\unityworkspace\CreationWar_NewClient\Temp\UnityVS_bin\Debug\yuan.dll
+E:\unityworkspace\CreationWar_NewClient\Temp\UnityVS_bin\Debug\UnityEngine.xml
+E:\unityworkspace\CreationWar_NewClient\Temp\UnityVS_bin\Debug\UnityEditor.xml
+E:\unityworkspace\CreationWar_NewClient\Temp\UnityVS_bin\Debug\yuan.xml
+E:\unityworkspace\CreationWar_NewClient\Temp\UnityVS_bin\Debug\Photon3Unity3D.xml
+E:\unityworkspace\CreationWar_NewClient\obj\Debug\UnityVS.CreationWar_NewClient.CSharp.Plugins.csprojResolveAssemblyReference.cache
+E:\unityworkspace\CreationWar_NewClient\obj\Debug\Assembly-CSharp-firstpass.dll
+E:\unityworkspace\CreationWar_NewClient\obj\Debug\Assembly-CSharp-firstpass.pdb
+E:\unityworkspace\CreationWar_NewClient\Temp\UnityVS_bin\Debug\TDGAAnalytics.dll

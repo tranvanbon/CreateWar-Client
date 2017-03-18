@@ -1,0 +1,36 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Plugins/Code/C#/Server/TableRead.cs">
+    <Files>
+      <File FileName="Assets/Scripts/NGUI/AchorFindCamera.js" Line="1" Column="1" />
+      <File FileName="Assets/cameraShaders/java/QualityManager.js" Line="1" Column="1" />
+      <File FileName="Assets/Plugins/Code/C#/Server/TableRead.cs" Line="66" Column="16" />
+      <File FileName="Assets/Plugins/Code/C#/Button/BtnGameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Plugins/Code/C#/Button/BtnServer.cs" Line="98" Column="39" />
+      <File FileName="Assets/Plugins/Code/C#/Panel/OnLine.cs" Line="202" Column="34" />
+      <File FileName="Assets/Scripts/Other/AnnocementContents.cs" Line="17" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="E:\unityworkspace\CreationWar_NewClient\Assets\Scripts\TaskWork\UIControl.js" line="1271" />
+      <Breakpoint file="/Users/mac/CreationWar_NewClient/Assets/Scripts/TaskWork/TriggerLoadLevel.js" line="54" />
+      <Breakpoint file="/Users/mac/CreationWar_NewClient/Assets/Scripts/NGUI/DungeonControl.js" line="1744" />
+      <Breakpoint file="/Users/mac/CreationWar_NewClient/Assets/Scripts/NGUI/DungeonControl.js" line="1764" />
+      <Breakpoint file="/Users/mac/CreationWar_NewClient/Assets/Scripts/NGUI/TaskSceneIcon.js" line="278" />
+      <Breakpoint file="/Users/mac/CreationWar_NewClient/Assets/Scripts/NGUI/TaskSceneIcon.js" line="297" />
+      <Breakpoint file="/Users/mac/CreationWar_NewClient/Assets/Scripts/TaskWork/MainPersonStatus.js" line="926" />
+      <Breakpoint file="/Users/mac/CreationWar_NewClient/Assets/Scripts/TaskWork/UIControl.js" line="287" />
+      <Breakpoint file="/Users/mac/CreationWar_NewClient/Assets/Scripts/TaskWork/UIControl.js" line="2247" />
+      <Breakpoint file="/Users/mac/CreationWar_NewClient/Assets/Scripts/TaskWork/UIControl.js" line="2386" />
+      <Breakpoint file="/Users/mac/CreationWar_NewClient/Assets/Scripts/TaskWork/UIControl.js" line="4388" />
+      <Breakpoint file="/Users/mac/CreationWar_NewClient/Assets/Scripts/TaskWork/UIControl.js" line="4410" />
+      <Breakpoint file="/Users/mac/CreationWar_NewClient/Assets/Scripts/TaskWork/UIControl.js" line="4934" />
+      <Breakpoint file="/Users/mac/CreationWar_NewClient/Assets/Scripts/TaskWork/UIControl.js" line="4971" />
+      <Breakpoint file="/Users/mac/CreationWar_NewClient/Assets/Scripts/TaskWork/MainPersonStatus.js" line="582" />
+      <Breakpoint file="/Users/mac/CreationWar_NewClient/Assets/Scripts/TaskWork/MainPersonStatus.js" line="589" />
+      <Breakpoint file="/Users/mac/CreationWar_NewClient/Assets/Scripts/NGUI/SkillItem.js" line="391" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

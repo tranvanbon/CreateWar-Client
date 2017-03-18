@@ -1,0 +1,11 @@
+Base path: D:/Program Files/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-3-3404
+Cmd: getPlatforms
+Cmd: compileSnippet
+  error: 2 plat 8 at (48): 'frag': input parameter 'i' missing semantics
+  error: 1 plat 8 at (66): comma expression used where a vector constructor may have been intended
+  api=8 type=1 insize=1994 outsize=0 kw= ok=0
+Unhandled exception: Readfile from pipe failed. GLE=管道已结束。
+
+
+Quitting shader compiler process
